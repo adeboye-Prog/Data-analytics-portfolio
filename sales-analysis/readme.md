@@ -23,6 +23,6 @@ Source : Kaggle Sales dataset
 
 ## Recommendations
 
-##screenshots
+## Screenshots
 
 
