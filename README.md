@@ -12,7 +12,7 @@ This repository contains real-world projects, using data to solve business probl
 ## 📂projects
 
 ### Sales Performance Analysis
-📂 Folder: Sales-analysis
+📂 Folder: 'sales-analysis'
 - build interactive dashboards
 - Analyzed revenue trends
 - Generated business insights
