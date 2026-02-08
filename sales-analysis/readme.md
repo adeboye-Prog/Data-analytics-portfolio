@@ -16,7 +16,7 @@ Source : Kaggle Sales dataset
 ## Process
 1. Data cleaning
 2. Pivot Analysis
-3. Dashboard Cretion
+3. Dashboard Creation
 4. Insight generation
 
 ## Observations
