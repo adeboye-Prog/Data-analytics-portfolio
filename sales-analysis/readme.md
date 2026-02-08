@@ -1,4 +1,5 @@
-##Sales performance Analysis
+Sales Performance Analysis
+
 ## Objective
 Analyze spending patterns by gender,
 Track most popular categories over time,
@@ -7,5 +8,7 @@ identify seasonal or monthly spikes in certain categories.
 
 ## Dataset
 Source : Kaggle Sales dataset
+
+##
 
 
