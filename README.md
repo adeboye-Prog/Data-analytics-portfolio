@@ -16,5 +16,4 @@ This repository contains real-world projects, using data to solve business probl
 - build interactive dashboards
 - Analyzed revenue trends
 - Generated business insights
-### HR Audit
-📂 Folder : HR Audit
+
