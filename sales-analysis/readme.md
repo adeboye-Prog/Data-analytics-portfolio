@@ -30,5 +30,5 @@ Source : Kaggle Sales dataset
 - there should be an increase in inventory for clothing,as it is in high demand.
 
 ## Screenshots
-(coming soon)
+(check files)
 
