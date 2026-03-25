@@ -1,4 +1,4 @@
-# Data-analytics-portfolio - Adeboye Toluwa
+📊 Data-analytics-portfolio - Adeboye Toluwa
 Welcome to my data analytics portfolio.
 
 This repository contains real-world projects, using data to solve business problems.
@@ -16,4 +16,10 @@ This repository contains real-world projects, using data to solve business probl
 - build interactive dashboards
 - Analyzed revenue trends
 - Generated business insights
+
+### Business Performance Analysis
+📂 Folder: 'HR-analysis'
+- Build interactive dashboards
+- Analyzed employee attition reasons
+- suggested solutions for employee retention
 
