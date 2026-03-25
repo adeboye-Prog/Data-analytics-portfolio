@@ -1,4 +1,4 @@
-Sales Performance Analysis
+💵 Sales Performance Analysis
 
 ## Objective
 - Analyze spending patterns by gender,
