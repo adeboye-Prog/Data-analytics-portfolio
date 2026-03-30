@@ -1,18 +1,28 @@
-📊 Data-analytics-portfolio - Adeboye Toluwa
-Welcome to my data analytics portfolio.
+📊 Welcome to my portfolio where i take you through my work done as a project manager and a data analyst 
 
-This repository contains real-world projects, using data to solve business problems.
+🧔‍♂️ A certified project manager with strong data analys skills in EXCEL, POWER-BI, SQL and PHYTON(in view), an expert in project execution and team management.This repository contains real-world projects, using my knowlegde of data and project management to solve business problems.
 
-## skills 
+## skills
+
+📊 Data Analysis
 - Excel
 - Power BI
 - SQL(PostgreSQL)
-- Python
+- Data cleaning and visualization
+- Python(in view)
 
-## 📂projects
+📈 Project Management
+- Jira
+- Trello
+- Microsoft Projects
+- Agile
+- Stakeholder Communication
+- Team management
+
+## 📂projects (Data analysis)
 
 ### Sales Performance Analysis
-📂 Folder: 'sales-analysis'
+📂 Folder: 'sales-analysis/ Addidas sale Analysis'
 - build interactive dashboards
 - Analyzed revenue trends
 - Generated business insights
